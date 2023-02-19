@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad566461-13de-4324-b71d-a2e177e0c98a" name="Changes" comment="HW 1" />
+    <list default="true" id="ad566461-13de-4324-b71d-a2e177e0c98a" name="Changes" comment="HW 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/SF/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,9 +38,84 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/program/IntelliJ IDEA Community Edition 2022.2.2/Proect/qa_test"
+    "last_opened_file_path": "D:/program/IntelliJ IDEA Community Edition 2022.2.2/Proect/SF_HW_30",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PersonTest.testTeenager">
+    <configuration name="PersonTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SF_HW_30" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PersonTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SF_HW_30" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PersonTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SF_HW_30" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PersonTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SF_HW_30" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PersonTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.testTeenager" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SF_HW_30" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PersonTest" />
+      <option name="METHOD_NAME" value="testTeenager" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PersonTest.testTeenager" />
+        <item itemvalue="TestNG.PersonTest (3)" />
+        <item itemvalue="TestNG.PersonTest (2)" />
+        <item itemvalue="TestNG.PersonTest (1)" />
+        <item itemvalue="TestNG.PersonTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676789832686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW 2">
+      <created>1676789958467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676789958467</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW 1" />
+    <MESSAGE value="HW 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 2" />
   </component>
 </project>
