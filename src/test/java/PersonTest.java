@@ -33,30 +33,3 @@ public class PersonTest {
 }
 
 
-//
-//    //метод возвидения в квадрат числа
-//    public int cvadrat(int age) {
-//        return age * age;
-//    }
-//
-//    //Провайдер массив с числами, первое значения которое возведут в квадрат
-//    // второе проверка в данном случаи
-//    @DataProvider(name = "quadraticDataProvider")
-//    Object[][] quadraticDataProvider() {
-//        return new Object[][]{
-//                {2, 4},
-//                {1, 1},
-//                {-1, 1},
-//                {0, 0}
-//        };
-//    }
-//
-//    //тест проверки возведения в квадрат
-//    @Test(dataProvider = "quadraticDataProvider")
-//    //обьявляем метот принимающий из масива чило и ответ
-//    public void testCvadrat(int age, int exp){
-//        int cvad = cvadrat(age);
-//        System.out.println(cvad);
-//        assertEquals(cvad, exp);
-//    }
-//}

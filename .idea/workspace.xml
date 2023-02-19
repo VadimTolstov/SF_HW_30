@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad566461-13de-4324-b71d-a2e177e0c98a" name="Changes" comment="HW 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PersonTest.java" afterDir="false" />
+    <list default="true" id="ad566461-13de-4324-b71d-a2e177e0c98a" name="Changes" comment="HW 3">
+      <change afterPath="$PROJECT_DIR$/answer.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/SF/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PersonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +34,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/program/IntelliJ IDEA Community Edition 2022.2.2/Proect/SF_HW_30",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/program/IntelliJ IDEA Community Edition 2022.2.2/Proect/SF_HW_30&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PersonTest.testTeenager">
+  <component name="RunManager" selected="TestNG.PersonTest (1)">
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person" />
+      <module name="SF_HW_30" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SF_HW_30" />
       <option name="PACKAGE_NAME" value="" />
@@ -83,17 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SF_HW_30" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PersonTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PersonTest.testTeenager" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SF_HW_30" />
       <option name="PACKAGE_NAME" value="" />
@@ -109,10 +105,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.PersonTest.testTeenager" />
+        <item itemvalue="TestNG.PersonTest (1)" />
+        <item itemvalue="Application.Person" />
         <item itemvalue="TestNG.PersonTest (3)" />
         <item itemvalue="TestNG.PersonTest (2)" />
-        <item itemvalue="TestNG.PersonTest (1)" />
-        <item itemvalue="TestNG.PersonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676789958467</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HW 3">
+      <created>1676795433085</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676795433085</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +159,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW 1" />
     <MESSAGE value="HW 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW 2" />
+    <MESSAGE value="HW 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 3" />
   </component>
 </project>
