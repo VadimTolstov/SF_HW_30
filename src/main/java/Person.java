@@ -7,7 +7,7 @@ public class Person {
          if (age < 19) {
 
         // исправленное условие
-       //if (age >= 13 && age <= 19) {
+//       if (age >= 13 && age <= 19) {
 
             result = true;
         } else {
