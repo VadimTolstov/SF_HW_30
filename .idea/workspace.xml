@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad566461-13de-4324-b71d-a2e177e0c98a" name="Changes" comment="HW 4">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/sf/StepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ru.sf/stepdef.feature" afterDir="false" />
+    <list default="true" id="ad566461-13de-4324-b71d-a2e177e0c98a" name="Changes" comment="    HW 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sf/StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/sf/StepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/ru.sf/scenario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/ru.sf/scenario.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,24 +31,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/program/IntelliJIDEA/Proect/SF_HW_30",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/program/IntelliJIDEA/Proect/SF_HW_30&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\program\IntelliJIDEA\Proect\SF_HW_30\src\test\resources" />
@@ -71,7 +71,26 @@
       <recent name="ru.sf" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Validate google search is working">
+  <component name="RunManager" selected="Cucumber Java.Feature: stepdef">
+    <configuration name="Feature: stepdef" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ru.sf/stepdef.feature" />
+      <option name="GLUE" value="ru.sf" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="maven-id" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: stepdef" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scenario: Sunday isn't Friday" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ru.sf/scenario.feature" />
@@ -184,15 +203,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stepDef.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
-      <option name="myFilePath" value="$PROJECT_DIR$/src/test/resources/ru.sf/stepDef.feature" />
-      <option name="myNameFilter" />
-      <option name="cucumberJsArguments" value="" />
-      <option name="workingDirectory" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: stepdef" />
         <item itemvalue="Cucumber Java.Scenario: Validate google search is working" />
         <item itemvalue="Cucumber Java.Scenario: add item to card" />
         <item itemvalue="Cucumber Java.Scenario: Sunday isn't Friday" />
@@ -217,7 +230,7 @@
       <workItem from="1680541555234" duration="178000" />
       <workItem from="1680587818589" duration="2450000" />
       <workItem from="1680594843931" duration="2374000" />
-      <workItem from="1680597828588" duration="575000" />
+      <workItem from="1680597828588" duration="4804000" />
     </task>
     <task id="LOCAL-00001" summary="HW 1">
       <created>1676789832686</created>
@@ -261,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680537720744</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="    HW 4">
+      <created>1680598648720</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680598648720</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +303,8 @@
     <MESSAGE value="HW 2" />
     <MESSAGE value="HW 3" />
     <MESSAGE value="HW 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW 4" />
+    <MESSAGE value="    HW 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="    HW 4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
