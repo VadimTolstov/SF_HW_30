@@ -7,6 +7,7 @@ import io.cucumber.java.en.When;
 import static org.testng.Assert.assertEquals;
 
 public class StepDefinitions {
+
     private String today;
     private String actualAnswer;
 
